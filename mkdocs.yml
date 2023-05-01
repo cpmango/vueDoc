@@ -1,0 +1,5 @@
+site_name: VueDoc
+site_url: https://example.com/
+nav:
+  - VueDoc: VueDoc.md
+theme: readthedocs
